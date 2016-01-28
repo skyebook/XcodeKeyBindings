@@ -5,3 +5,5 @@ Every time I find myself at a new computer I'm driven crazy by not seeing Xcode'
 ## Installation
 
 Drop the `keybindings` file into `~/Library/Developer/Xcode/UserData/KeyBindings` and restart Xcode.
+
+![Isn't this sweet?](https://raw.githubusercontent.com/skyebook/XcodeKeyBindings/assets/show-document.gif)
